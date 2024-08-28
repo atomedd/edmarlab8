@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    transition: background-color 1s;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#contactList {
+    margin-top: 20px;
+    text-align: center;
+}
